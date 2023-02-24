@@ -1,5 +1,5 @@
 from os import system
-import string
+
 
 system("clear")
 def signUp(username, email, password):
