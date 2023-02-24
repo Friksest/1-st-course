@@ -30,6 +30,6 @@ username = input("Add the username: ")
 email = input("Add the email: ")
 password = input("Add the password: ")
 
-signUp(username, email, password)
+
 
 print(signUp(username, email, password))
